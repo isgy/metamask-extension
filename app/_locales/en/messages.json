@@ -1048,6 +1048,9 @@
   "send": {
     "message": "Send"
   },
+  "sendAmount": {
+    "message": "Send Amount"
+  },
   "sendETH": {
     "message": "Send ETH"
   },
